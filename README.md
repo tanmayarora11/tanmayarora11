@@ -20,14 +20,14 @@
 
 Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), sophomore at DTU and a Web Development Enthusiast and Competitive coder 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/tanmayarora11/tanmayarora11/blob/master/coding.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/tanmayarora11/tanmayarora11/blob/main/coding.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning DSA; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: (https://www.linkedin.com/in/tanmay-arora-751319197/);
+- 📫 How to reach me: [@tanmayarora](https://www.linkedin.com/in/tanmay-arora-751319197/);
 
 **Languages and Tools:**  
 
@@ -44,7 +44,7 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), sophomore at DTU and 
 **📈 My GitHub Stats**
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanmayarora11&show_icons=true&theme=gotham" alt="tanmayarora11" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarora11&layout=compact&show_icons=true&theme=gotham" alt="tanmayarora11" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanmayarora11&show_icons=true&theme=gotham" alt="tanmayarora11" />
 
 <!--
 **tanmayarora11/tanmayarora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
