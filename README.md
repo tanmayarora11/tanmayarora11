@@ -43,10 +43,9 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), sophomore at DTU and 
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanmayarora11&show_icons=true&theme=gotham" alt="tanmayarora11" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarora11&layout=compact&show_icons=true&theme=gotham" alt="tanmayarora11" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarora11&hide=JupyterNotebook&layout=compact&show_icons=true&theme=gotham" alt="tanmayarora11" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayarora11)](https://github.com/tanmayarora11/github-readme-stats)
 <!--
 **tanmayarora11/tanmayarora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
