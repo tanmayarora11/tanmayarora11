@@ -42,6 +42,8 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), sophomore at DTU and 
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 **📈 My GitHub Stats**
 
