@@ -8,10 +8,6 @@
   <img align="left" alt="Tanmay's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
 
-<a href="https://www.codechef.com/users/tanny_567">
-  <img align="left" alt="Tanmay's Codechef" width="22px" src="https://iconhelper.cn/svg/brands/codechef.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=tanmayarora11.tanmayarora11)
 
 <br />
