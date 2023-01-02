@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), senior at DTU and a Web Development Enthusiast and Competitive coder 🚀 from India.
+Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Senior at DTU and a Web Development Enthusiast and Competitive coder 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/tanmayarora11/tanmayarora11/blob/main/coding.gif?raw=true" width="500" height="320" />
   
