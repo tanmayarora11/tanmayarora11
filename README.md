@@ -8,11 +8,9 @@
   <img align="left" alt="Tanmay's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tanmayarora11.tanmayarora11)
-
 <br />
 
-Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Senior at DTU and a Web Development Enthusiast and Competitive coder 🚀 from India.
+Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Associate Software Engineer at IVP and BTECH Grad from DTU 🚀 and a proud Indian.
 
   <img align="right" alt="GIF" src="https://github.com/tanmayarora11/tanmayarora11/blob/main/coding.gif?raw=true" width="500" height="320" />
   
