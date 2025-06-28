@@ -1,14 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <a href="https://www.linkedin.com/in/tanmay-arora-751319197/">
-  <img align="left" alt="Tanmay's LinkedIN" width="22px" />
+  <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
 </a>
 
 <a href="https://www.instagram.com/tanmay.arora11/">
   <img align="left" alt="Tanmay's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tanmayarora11.tanmayarora11)
+![Visitor Count](https://profile-counter.glitch.me/tanmayarora11.tanmayarora11/count.svg)
 
 <br />
 
@@ -18,13 +18,16 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Associate Software En
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning DSA; 
-- 💬 Ask me about anything, I am happy to help;
+- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+- 👨🏽‍💻 &nbsp;Software Engineer at [IVP](https://www.ivp.in/)), developing for them to create an impact in the Hedge Fund System.\
+- 🎓 &nbsp;Bachelors of Technology in IT from DTU.\
+- 🌱 &nbsp;All Round Contributor to Frontend, Backend, Database and Deployment.\
+- 💬 &nbsp;Feel free to reach out to me for some interesting discussion related to Techonology.\
 - 📫 How to reach me: [@tanmayarora](https://www.linkedin.com/in/tanmay-arora-751319197/);
 
 **Languages and Tools:**  
 
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
