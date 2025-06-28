@@ -1,12 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <a href="https://www.linkedin.com/in/tanmay-arora-751319197/">
-  <img align="left" alt="Tanmay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tanmay's LinkedIN" width="22px" />
 </a>
 
 <a href="https://www.instagram.com/tanmay.arora11/">
   <img align="left" alt="Tanmay's Instagram" width="22px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=tanmayarora11.tanmayarora11)
 
 <br />
 
