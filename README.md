@@ -21,8 +21,9 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Software Engineer at 
 ![GENERAL PROFICIENCY : ](http://img.shields.io/badge/-General%20Proficiency-grey?style=flat-square)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 <br/>
 ![FRONTEND : ](http://img.shields.io/badge/-Frontend-grey?style=flat-square) 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) 
@@ -30,10 +31,12 @@ Hi, I'm [Tanmay Arora!](https://tanmayarora11.github.io/), Software Engineer at 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![MUI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)](#)
 <br/>
 ![BACKEND : ](http://img.shields.io/badge/-Backend-grey?style=flat-square)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 <br/>
 ![DEVOPS : ](http://img.shields.io/badge/-Backend-grey?style=flat-square)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
